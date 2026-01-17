@@ -1,4 +1,4 @@
-## Hi there 👋
+## - 🌱 I’m currently learning ...
 
 <!--
 **Luisuarez96/Luisuarez96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
